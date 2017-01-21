@@ -1,0 +1,2 @@
+This is charalambos 's first git project 
+initialy i oppened the read me.,d which was wrong.  i have created this file by accident. after that i created and edited a new file called README.md which is the right file asked by the excerice. '
